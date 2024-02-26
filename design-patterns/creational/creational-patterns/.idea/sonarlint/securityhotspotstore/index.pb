@@ -31,3 +31,5 @@ Hsrc/main/java/br/com/cod3r/singleton/connectionPool/conn/Connection.java,d\d\d
 Lsrc/main/java/br/com/cod3r/singleton/connectionPool/conn/ConnectionPool.java,a\9\a97ec3de3f29ac498ba3d8e0ba17ac45e4584fd2
 o
 ?src/main/java/br/com/cod3r/singleton/connectionPool/Client.java,a\5\a529dac3e111d0804d83b0f8f968f8ac12a5c7c6
+r
+Bsrc/main/java/br/com/cod3r/abstractfactory/app/service/Client.java,4\5\45cbbcdcb6000324835c9a6c4fa7b38fd71c2e91
