@@ -1,18 +1,18 @@
-package br.com.cod3r.factory.apple;
+package br.com.cod3r.factorymethod.apple;
 
 
-import br.com.cod3r.factory.apple.factory.IPhone11Factory;
-import br.com.cod3r.factory.apple.factory.IPhone11ProFactory;
-import br.com.cod3r.factory.apple.factory.IPhoneXSMaxFactory;
-import br.com.cod3r.factory.apple.factory.IPhoneXFactory;
-import br.com.cod3r.factory.apple.model.IPhone;
+import br.com.cod3r.factorymethod.apple.factory.IPhone11Factory;
+import br.com.cod3r.factorymethod.apple.factory.IPhone11ProFactory;
+import br.com.cod3r.factorymethod.apple.factory.IPhoneXSMaxFactory;
+import br.com.cod3r.factorymethod.apple.factory.IPhoneXFactory;
+import br.com.cod3r.factorymethod.apple.model.IPhone;
 
 
 public class ClientWithFactory {
 	
 	public static void main(String[] args) {
 		// Factory methos é utilizado para criação de objetos do mesmo tipo mas com características diferentes
-		// Nesse exemplo existe factories para cada tipo de iphone mas no final as factories sempre devolvem o objeto "IPhone
+		// Nesse exemplo existe factories para cada tipo de iphone mas no final as factories sempre devolvem o objeto "IPhone"
 
 		// No caso do cliente utilizando as factories normais, ele precisará chamar a factory específica
 		// para cada modelo e versão que ele queira criar

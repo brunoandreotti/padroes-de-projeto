@@ -1,9 +1,8 @@
-package br.com.cod3r.factory.apple.halfSimplesFactory;
+package br.com.cod3r.factorymethod.apple.halfSimplesFactory;
 
-import br.com.cod3r.factory.apple.model.IPhone;
-import br.com.cod3r.factory.apple.model.IPhone11;
-import br.com.cod3r.factory.apple.model.IPhone11Pro;
-import java.util.Objects;
+import br.com.cod3r.factorymethod.apple.model.IPhone;
+import br.com.cod3r.factorymethod.apple.model.IPhone11;
+import br.com.cod3r.factorymethod.apple.model.IPhone11Pro;
 
 public class IPhone11HalfSimpleFactory extends IPhoneHalfSimpleFactory {
 

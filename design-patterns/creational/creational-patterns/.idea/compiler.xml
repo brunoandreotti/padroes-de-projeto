@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CreationalPatterns" />
         <module name="CreationalPatternsRef" />
-        <module name="creational-patterns" />
       </profile>
     </annotationProcessing>
   </component>

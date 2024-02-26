@@ -1,10 +1,8 @@
-package br.com.cod3r.factory.apple.halfSimplesFactory;
+package br.com.cod3r.factorymethod.apple.halfSimplesFactory;
 
-import br.com.cod3r.factory.apple.model.IPhone;
-import br.com.cod3r.factory.apple.model.IPhone11;
-import br.com.cod3r.factory.apple.model.IPhone11Pro;
-import br.com.cod3r.factory.apple.model.IPhoneX;
-import br.com.cod3r.factory.apple.model.IPhoneXSMax;
+import br.com.cod3r.factorymethod.apple.model.IPhone;
+import br.com.cod3r.factorymethod.apple.model.IPhoneX;
+import br.com.cod3r.factorymethod.apple.model.IPhoneXSMax;
 
 public class IPhoneXHalfSimpleFactory extends IPhoneHalfSimpleFactory {
 

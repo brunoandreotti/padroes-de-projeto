@@ -1,7 +1,7 @@
-package br.com.cod3r.factory.apple.factory;
+package br.com.cod3r.factorymethod.apple.factory;
 
-import br.com.cod3r.factory.apple.model.IPhone;
-import br.com.cod3r.factory.apple.model.IPhone11;
+import br.com.cod3r.factorymethod.apple.model.IPhone;
+import br.com.cod3r.factorymethod.apple.model.IPhone11;
 
 public class IPhone11Factory extends IPhoneFactory {
 

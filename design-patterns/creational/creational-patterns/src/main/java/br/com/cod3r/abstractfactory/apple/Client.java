@@ -11,6 +11,11 @@ public class Client {
 	
 	public static void main(String[] args) {
 
+		//Abstractory factory é utilizada para a construção de objetos que serão utilizados
+		//dentro de um mesmo contexto, não sendo necessáriamente objetos do mesmo tipo
+		//Nesse caso as RulesAbstractoryFactory estão cuidando da criação tanto do certificado quanto do empacotamento do iphone
+		//Então mesmo sendo objetos diferentes (Certificate e Packing) eles estão sendo criados dentro da mesma abstract factory
+
 		BrazilRulesAbstractFactory brazilRules = new BrazilRulesAbstractFactory();
 		USRulesAbstractFactory usRules = new USRulesAbstractFactory();
 

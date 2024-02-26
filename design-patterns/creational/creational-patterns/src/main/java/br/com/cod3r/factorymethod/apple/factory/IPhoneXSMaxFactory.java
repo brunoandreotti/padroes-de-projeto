@@ -1,7 +1,7 @@
-package br.com.cod3r.factory.apple.factory;
+package br.com.cod3r.factorymethod.apple.factory;
 
-import br.com.cod3r.factory.apple.model.IPhone;
-import br.com.cod3r.factory.apple.model.IPhoneXSMax;
+import br.com.cod3r.factorymethod.apple.model.IPhone;
+import br.com.cod3r.factorymethod.apple.model.IPhoneXSMax;
 
 public class IPhoneXSMaxFactory extends IPhoneFactory {
 

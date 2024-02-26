@@ -1,0 +1,17 @@
+
+_
+java:S1192"IDefine a constant instead of duplicating this literal "standard" 4 times.(ô¯çß
+^
+java:S1192!"HDefine a constant instead of duplicating this literal "highend" 4 times.(•Èó
+V
+java:S18549";Remove this useless assignment to local variable "iphone8".(‡Ãçªúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(„ŒñŒÿÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(²Ô‘ß
+@	java:S106$"+Replace this use of System.out by a logger.(ÿ§Ÿ†
+E	java:S106("+Replace this use of System.out by a logger.(¹òè´ùÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(–Í±µüÿÿÿÿ
+E	java:S1060"+Replace this use of System.out by a logger.(°¼¼§øÿÿÿÿ
+?	java:S1064"+Replace this use of System.out by a logger.(È¸~
+E	java:S1068"+Replace this use of System.out by a logger.(…•ÆÖøÿÿÿÿ
+G
+java:S14819",Remove this unused "iphone8" local variable.(‡Ãçªúÿÿÿÿ

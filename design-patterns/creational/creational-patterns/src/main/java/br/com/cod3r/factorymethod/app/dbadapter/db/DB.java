@@ -1,4 +1,4 @@
-package br.com.cod3r.factory.app.dbadapter.db;
+package br.com.cod3r.factorymethod.app.dbadapter.db;
 
 public interface DB {
 	void query(String sql);
