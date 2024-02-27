@@ -33,3 +33,13 @@ o
 ?src/main/java/br/com/cod3r/singleton/connectionPool/Client.java,a\5\a529dac3e111d0804d83b0f8f968f8ac12a5c7c6
 r
 Bsrc/main/java/br/com/cod3r/abstractfactory/app/service/Client.java,4\5\45cbbcdcb6000324835c9a6c4fa7b38fd71c2e91
+o
+?src/main/java/br/com/cod3r/builder/meal/model/FastFoodMeal.java,d\e\de59ed28e5bbb352f4a2199e9bb8ed5cbbd5e73e
+r
+Bsrc/main/java/br/com/cod3r/builder/meal/director/MealDirector.java,0\9\0943fcf715ee9b00bf6462d7b35a556f0a81c5c1
+x
+Hsrc/main/java/br/com/cod3r/builder/meal/builder/FastFoodMealBuilder.java,0\3\03d78612e08208e95f8671ace2310da195d3254d
+c
+3src/main/java/br/com/cod3r/builder/meal/Client.java,4\0\40d5018c3df61bcedb370eaa74c09ee8453f7249
+y
+Isrc/main/java/br/com/cod3r/builder/meal/builder/IFastFoodMealBuilder.java,9\4\94db9af24b5686048ead721c51401b0a618213e8
