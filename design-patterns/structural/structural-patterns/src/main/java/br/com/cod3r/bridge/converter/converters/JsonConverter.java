@@ -2,9 +2,14 @@ package br.com.cod3r.bridge.converter.converters;
 
 import br.com.cod3r.bridge.converter.employees.Employee;
 
-public class JsonConverter {
+public class JsonConverter implements Converter {
 
-	public String getEmployeeFormated(Employee emp) {
+	private final Employee emp;
+
+	public JsonConverter(Employee employee) {
+		this.emp = employee;
+	}
+	public String getEmployeeFormated() {
 		StringBuilder builder = new StringBuilder();
 		builder.append("{\n")
 			.append("\t\"name\": \"").append(emp.getName()).append("\"\n")
