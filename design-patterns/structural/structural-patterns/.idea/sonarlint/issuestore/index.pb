@@ -64,3 +64,17 @@ o
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+f
+6src/main/java/br/com/cod3r/composite/swing/Client.java,b\c\bc8f67df5ff158f6453e9a5c6775e187140f3a0d
+q
+Asrc/main/java/br/com/cod3r/composite/folders/model/Component.java,4\3\43c0e59d83f46a10704e99f993cbc93d9893ecea
+h
+8src/main/java/br/com/cod3r/composite/folders/Client.java,7\b\7b663f09e2921bf9f7a571ca7368c8623f825e2f
+v
+Fsrc/main/java/br/com/cod3r/composite/folders/model/FileSystemItem.java,d\1\d1277fff4c4937deb008a904021bcc978f8aaf24
+k
+;src/main/java/br/com/cod3r/composite/folders/model/Fle.java,f\b\fb26eaeff2679223cdd78a5ca913bd1b6a540034
+l
+<src/main/java/br/com/cod3r/composite/folders/model/File.java,0\7\07bb568e604433488930eba707210f7712aa095b
+n
+>src/main/java/br/com/cod3r/composite/folders/model/Folder.java,b\6\b67070e4d1272bacb436b48c0c5dbc6c6be21487
