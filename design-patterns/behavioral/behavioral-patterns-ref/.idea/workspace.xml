@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa72fc77-93c4-457a-bc1f-c98c951b3ada" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/command/migration/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/command/migration/commands/MigrationCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/components/AddButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/components/Label.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/components/ResetButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/components/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/observer/swing/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/components/AddButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/components/Label.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/components/ResetButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/components/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/mediator/Mediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/model/EnglishUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/model/Language.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/model/PortugueseUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/services/Translator.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2dc6kZLJIkepseG3dpYGiAF8xJ6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Brubs/padroes-de-projeto/design-patterns/behavioral-patterns/behavioral-patterns-ref&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa72fc77-93c4-457a-bc1f-c98c951b3ada" name="Changes" comment="" />
+      <created>1710295163589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710295163589</updated>
+      <workItem from="1710295164760" duration="86000" />
+      <workItem from="1710857857841" duration="1356000" />
+      <workItem from="1711047095395" duration="18000" />
+      <workItem from="1711377410446" duration="380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
