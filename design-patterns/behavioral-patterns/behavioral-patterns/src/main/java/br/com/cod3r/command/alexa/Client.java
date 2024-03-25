@@ -4,7 +4,7 @@ import br.com.cod3r.command.alexa.alexa.Alexa;
 
 public class Client {
 
-	//O Padrão command tem como objetivo encapsular uma requisição ocmo um pedido
+	//O Padrão command tem como objetivo encapsular uma requisição como um pedido
 	//permitindo que clientes parametrizem diferentes requisições
 	//
 
