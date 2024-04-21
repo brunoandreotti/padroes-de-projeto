@@ -8,5 +8,10 @@ public class Client {
 		System.out.println(calc.getResult("-"));
 		System.out.println(calc.getResult("*"));
 		System.out.println(calc.getResult("/"));
+
+		System.out.println(calc.getResultWithStrategy("+"));
+		System.out.println(calc.getResultWithStrategy("-"));
+		System.out.println(calc.getResultWithStrategy("*"));
+		System.out.println(calc.getResultWithStrategy("/"));
 	}
 }

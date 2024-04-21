@@ -5,28 +5,257 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa72fc77-93c4-457a-bc1f-c98c951b3ada" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/issuestore/5/5/554005a44bc9266ea81ef2aaef7a0e1167999f99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/issuestore/6/1/616b25d4ecf8c39bb86c37ac4e16dfac7035efee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/issuestore/6/f/6fea57678ad6f14dbeb2e914eeb8520e7ca263c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/securityhotspotstore/5/5/554005a44bc9266ea81ef2aaef7a0e1167999f99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/securityhotspotstore/6/1/616b25d4ecf8c39bb86c37ac4e16dfac7035efee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/securityhotspotstore/6/f/6fea57678ad6f14dbeb2e914eeb8520e7ca263c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/behavioral-patterns-ref.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/billsDispenser/after/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/billsDispenser/after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/billsDispenser/after/Dispenser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/billsDispenser/before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/billsDispenser/before/Dispenser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/process/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/process/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/process/service/GenericService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/process/service/ProcessContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/process/service/ServicesCatalog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/process/steps/ProcessStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/process/steps/SaveUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/process/steps/ValidateMandatoryField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/service/GenericService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/service/ProcessContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/service/ServicesCatalog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/steps/CheckPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/steps/CreateMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/steps/GetUserByEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/steps/GetUserToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/steps/GetUsers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/steps/ProcessStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/steps/SaveUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/steps/ValidateMandatoryField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/chain/processplus/steps/ValidateToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/after/alexa/Alexa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/after/alexa/AlexaAI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/after/commands/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/after/commands/TurnLightOffCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/after/commands/TurnLightOnCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/after/lights/GenericLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/after/lights/PhillipsHueLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/after/lights/XiaomiLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/before/alexa/Alexa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/before/lights/PhillipsHueLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/alexa/before/lights/XiaomiLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/migration/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/migration/MigrationTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/migration/commands/MigrationCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/migration/commands/ProductTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/migration/commands/UserTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/command/migration/commands/UserTableRoleColumn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/iterator/cart/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/iterator/cart/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/iterator/cart/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/iterator/tvChannel/after/ChannelIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/iterator/tvChannel/after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/iterator/tvChannel/after/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/iterator/tvChannel/before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/iterator/tvChannel/before/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/memento/swing/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/memento/swing/component/TextAreaWithMemory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/memento/swing/memory/Caretaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/memento/swing/memory/Memento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/party/after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/party/after/observers/Friend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/party/after/observers/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/party/after/observers/Wife.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/party/after/subject/Doorman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/party/after/subject/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/party/before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/party/before/characters/Doorman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/party/before/characters/Wife.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/swing/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/swing/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/observer/swing/Label.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/headphone/after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/headphone/after/HeadPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/headphone/after/states/HPState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/headphone/after/states/OffState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/headphone/after/states/OnState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/headphone/after/states/PlayingState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/headphone/before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/headphone/before/HeadPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/pacman/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/pacman/Ghost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/pacman/game/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/pacman/game/GameEventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/pacman/states/ChasePacmanState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/pacman/states/FleePacmanState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/pacman/states/GhostState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/pacman/states/ReturnToBaseState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/state/pacman/states/WanderMazeState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/calc/after/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/calc/after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/calc/after/strategies/AdditionOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/calc/after/strategies/DivisionOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/calc/after/strategies/MultiplicationOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/calc/after/strategies/OperationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/calc/after/strategies/SubtractionOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/calc/before/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/calc/before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/eat/EatStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/eat/MeatFoodStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/eat/VeggieFoodStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/transportation/AirplaneStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/transportation/BikeStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/transportation/CarStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/transportation/TransportationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/transportation/WalkStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/work/DeveloperStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/work/NoWorkStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/work/PilotStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/person/strategies/work/WorkStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/jobs/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/jobs/HispsterDeveloper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/jobs/Pilot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/jobs/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/eat/EatStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/eat/MeatFoodStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/eat/VeggieFoodStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/transportation/AirplaneStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/transportation/BikeStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/transportation/CarStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/transportation/TransportationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/work/DeveloperStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/work/PilotStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/strategy/worker/strategies/work/WorkStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/persist/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/persist/models/ModelPersist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/persist/models/UserModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/model/Buyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/model/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/service/BestOfferService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/service/template/BestOfferTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/service/template/BigCartDiscounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/service/template/BlackFriday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/service/template/CategoryDiscounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/service/template/FreeDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/service/template/RegularPrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/after/service/template/SpecialClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/before/model/Buyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/before/model/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/before/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/before/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns-ref/src/main/java/br/com/cod3r/template/sales/before/service/BestOfferService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/billsDispenser/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/billsDispenser/Dispenser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/service/GenericService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/service/ProcessContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/steps/CheckPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/steps/CreateMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/steps/GetUserByEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/steps/GetUserToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/steps/GetUsers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/steps/ProcessStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/steps/SaveUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/steps/ValidateMandatoryField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/chain/process/steps/ValidateToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/command/alexa/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/command/alexa/alexa/Alexa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/command/alexa/commands/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/command/alexa/commands/TurnOffCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/command/alexa/commands/TurnOnCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/command/alexa/lights/GenericLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/command/alexa/lights/PhillipsHueLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/command/alexa/lights/XiaomiLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/iterator/cart/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/iterator/cart/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/iterator/cart/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/iterator/tvChannel/ChannelIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/iterator/tvChannel/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/iterator/tvChannel/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/mediator/Mediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/model/EnglishUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/model/Language.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/model/PortugueseUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/services/Translator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/memento/swing/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/memento/swing/component/TextAreaWithMemory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/memento/swing/memory/Caretaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/memento/swing/memory/Memento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/characters/Doorman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/characters/Wife.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/event/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/event/HusbandArrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/observers/FriendObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/observers/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/observers/WifeObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/subject/DoormanSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/observer/party/subject/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/state/headphone/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/state/headphone/HeadPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/state/pacman/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/state/pacman/Ghost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/state/pacman/game/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/state/pacman/game/GameEventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/state/pacman/states/GhostStates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/state/pacman/states/WanderMazeState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/calc/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/calc/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/worker/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/worker/jobs/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/worker/jobs/HispsterDeveloper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/worker/jobs/Pilot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/worker/jobs/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/worker/strategies/eat/EatStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/worker/strategies/transportation/TransportationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/strategy/worker/strategies/work/WorkStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/template/persist/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/template/sales/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/template/sales/model/Buyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/template/sales/model/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/template/sales/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/template/sales/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral-patterns/behavioral-patterns/src/main/java/br/com/cod3r/template/sales/service/BestOfferService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/command/migration/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/command/migration/commands/MigrationCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/components/AddButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/components/Label.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/components/ResetButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/swing/components/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/mediator/translate/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../behavioral-patterns/src/main/java/br/com/cod3r/observer/swing/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/components/AddButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/components/Label.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/components/ResetButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/swing/components/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/mediator/Mediator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/model/EnglishUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/model/Language.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/model/PortugueseUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../structural/structural-patterns/src/main/java/br/com/cod3r/mediator/translate/services/Translator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +276,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Brubs/padroes-de-projeto/design-patterns/behavioral-patterns/behavioral-patterns-ref&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Brubs/padroes-de-projeto/design-patterns/behavioral/behavioral-patterns-ref",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,6 +304,7 @@
       <workItem from="1710857857841" duration="1356000" />
       <workItem from="1711047095395" duration="18000" />
       <workItem from="1711377410446" duration="380000" />
+      <workItem from="1711403634174" duration="1166000" />
     </task>
     <servers />
   </component>

@@ -179,3 +179,31 @@ Padrões comportamentais tratam de algoritmos que focam nas relações entre os 
 -**Motivação**: O Mediator é um padrão de projeto comportamental que permite que você reduza as dependências caóticas entre objetos. O padrão restringe comunicações diretas entre objetos e os força a colaborar apenas através do objeto mediador.
 
 ---
+
+### **State**
+
+-**Nome**: State;
+
+-**Objetivo / intenção**: O State é um padrão de projeto comportamental que permite que um objeto altere o comportamento quando seu estado interno for alterado.
+
+-**Motivação**: O padrão extrai comportamentos relacionados ao estado em classes separadas de estado e força o objeto original a delegar o trabalho para uma instância dessas classes, em vez de agir por conta própria.
+
+---
+
+### **Strategy**
+
+-**Nome**: Strategy;
+
+-**Objetivo / intenção**: O Strategy é um padrão de projeto comportamental que transforma um conjunto de comportamentos em objetos e os torna intercambiáveis dentro do objeto de contexto original.
+
+-**Motivação**: O objeto original, chamado contexto, mantém uma referência a um objeto strategy e o delega a execução do comportamento. Para alterar a maneira como o contexto executa seu trabalho, outros objetos podem substituir o objeto strategy atualmente vinculado por outro.
+
+---
+
+### **Template Method**
+
+-**Nome**: Strategy;
+
+-**Objetivo / intenção**: O Template Method é um padrão de projeto comportamental que permite definir o esqueleto de um algoritmo em uma classe base e permitir que as subclasses substituam as etapas sem alterar a estrutura geral do algoritmo.
+
+---
